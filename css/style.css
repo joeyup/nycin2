@@ -1,0 +1,118 @@
+/*
+#8596C4 R: 133 G: 150 B: 196-skyblue
+#112A5F R: 17 G: 42 B: 95- darkblue
+	#8F231B: R: 143 G: 35 B: 27- red
+
+*/
+
+/*https://wireframe.cc/nXe63V*/
+
+/*https://wireframe.cc/4qh3wW*/
+
+/*Tamekia 347-657-8884, Jonell- 347-249-2654,Robert 917-270-4808*/
+
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+.paris img{height:150px;
+}
+body{margin:0;
+    
+}
+.paris h1{font-size: 80px;
+font-family: 'Berkshire Swash', cursive;
+color:#8F231B;
+
+}
+
+.paris{display:flex;
+justify-content:center;
+align-items:center;
+background-color:rgb(133,150,196);
+height:150px;
+}
+
+
+nav{
+margin-top: -17px;
+   }
+   
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+nav li,a{
+font-family: 'Berkshire Swash', cursive;
+    list-style-type: none;
+    text-decoration: none;
+    color: #cc0220;
+    font-size: 25px;
+}
+
+.intro{text-align: center;
+font-style:oblique;
+padding-top:50px;
+padding-bottom:20px;
+margin:-17px;
+color:rgb(20,38,88)
+ }
+ 
+ .face{background-image:url(../images/airfrance.jpg);
+ background-size:cover;
+height:400px;
+background-position: center;
+   }
+
+.face p{text-align:justify;
+font-size:20px;
+font-weight: bolder;
+background-color: white;
+color:blue;
+}
+
+
+  
+.h1 {
+    text-align:center;
+}
+.item {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:50%;
+    margin:auto;
+    border-bottom: solid 1px black;
+    
+    
+
+}
+
+.item p{font-family: 'Josefin Slab', serif;
+font-size:20px;
+
+  }
+  
+ 
+        
+  .item h1{color:rgb(20,38,88);
+      font-family: 'Berkshire Swash', cursive;
+  }
+.item img{
+    width:50%;
+     border-radius: 8px;
+}
+
+
+footer {
+   display:flex;
+  height:25px;
+  justify-content: space-around;
+  align-items: center;
+ bottom:0px;
+ width:100%;
+ color:#8F231B;
+ background-color:rgb(133,150,196);
+   }
+  
+ footer a{font-size:15px;
+     
+ }
